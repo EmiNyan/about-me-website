@@ -1,4 +1,11 @@
 * {
+  background-color:grey; /*Makes background color grey*/
+  
   color:pink; /*Makes header 1 pink and centers it*/
   text-align:center;
+}
+
+h1, h2 {
+  text-decoration:underline; /*Underlines headers*/ 
+  
 }
